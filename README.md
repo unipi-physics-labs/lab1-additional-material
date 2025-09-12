@@ -7,11 +7,8 @@ referenze, slides e altro materiale di supporto per il corso di lab1
 
 ### Ottica
 - Lezioni del corso nel AA 24/25, [slides](https://github.com/unipi-physics-labs/lab1-additional-material/blob/main/OtticaGiudici.pdf) (Sergio Giudici)
-- La storia dei telescopi, slides (Massimiliano Razzano)
 - Dispense di ottica, [pdf](https://github.com/unipi-physics-labs/lab1-additional-material/blob/main/DeSeta.pdf) (M. De Seta)
 - Dispense di ottica, [pdf](https://github.com/unipi-physics-labs/lab1-additional-material/blob/main/Ciroi.pdf) (S. Ciroi)
 
-### LaTeX & la Relazione di Laboratorio
-- La relazione di Laboratorio, slides (Massimiliano Razzano)
-- I grafici, slides (Massimiliano Razzano)
+### LaTeX
 - [The not so short introduction to LaTeX2e](https://tobi.oetiker.ch/lshort/lshort.pdf), Tobias Oetiker
